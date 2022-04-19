@@ -1,0 +1,36 @@
+.logo{
+    height: 60px;
+    width: 60px;
+}
+.photo{
+    height: 400px;
+    width: 500px;
+    
+    
+}
+.carousel-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.mid{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.mid_orta{
+    display: flex;
+    flex-direction: column;
+}
+.dropdown-toggle{
+    cursor: pointer;
+}
+.touch{
+    margin-top: 10px;
+}
+.col-lg-3{
+    margin-left: 50px;
+}

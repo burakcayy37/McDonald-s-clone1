@@ -1,0 +1,28 @@
+.siparislogo{
+    height: 60px;
+    width: 60px;
+}
+.photo{
+    height: 400px;
+    width: 500px;
+}
+.siparis{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.baslik{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.drinks{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
